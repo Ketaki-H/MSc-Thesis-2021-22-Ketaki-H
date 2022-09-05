@@ -24,4 +24,4 @@
 #### Filename: ENC_GC3.csv
 #### Contents: ENC and GC3 values of mitochondrial genomes of all dominant malaria vectors  
 
-#### Phylogenetic_tree_genus_Anopheles : High quality image of phylogenetic tree of mitochondrial genomes of 89 Anopheles species added for reference
+### Phylogenetic_tree_genus_Anopheles : High quality image of phylogenetic tree of mitochondrial genomes of 89 Anopheles species added for reference
